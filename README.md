@@ -5,5 +5,6 @@ Objective: To do data analysis using python and explore the Netflix dataset usin
 Tools: Python
 
 Outcome: Cleaned data with meaningful insights like top countries and years with high releases and specially releases from India, the rating pattern for the releases, etc.
+
 Key skills: Data Analysis, Exploratory data analysis, Data Visualization
 
